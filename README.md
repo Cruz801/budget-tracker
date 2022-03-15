@@ -23,5 +23,5 @@ To use locally, run npm start from your terminal and use localhost:3000 in your 
 # Links
 Heroku link https://gentle-coast-30618.herokuapp.com/
 
-Contribution
+# Contribution
 Steven Cruz
