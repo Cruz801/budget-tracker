@@ -17,6 +17,8 @@ Budget tracker has been developed as a progressive web app that will allow for f
 
 # Usage
 To use locally, run npm start from your terminal and use localhost:3000 in your browser.
+![Screenshot (46)b](https://user-images.githubusercontent.com/92316250/158312365-20e369f6-6299-4b2f-8c6d-9f482805ae01.png)
+
 
 # Links
 Heroku link https://gentle-coast-30618.herokuapp.com/
