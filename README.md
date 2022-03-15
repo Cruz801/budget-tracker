@@ -2,10 +2,10 @@
 
 # Desciption
 Budget tracker has been developed as a progressive web app that will allow for for offline access and functionality for users to keep track of their deposits and expenses while budget tracker keeps a money balance.
-Enter deposits offline
-Enter expenses offline
-When brought back online:
-Offline entries should be added to tracker.
+* Enter deposits offline
+* Enter expenses offline
+* When brought back online:
+* Offline entries should be added to tracker.
 
 # Technologies used
 * express
@@ -21,3 +21,5 @@ To use locally, run npm start from your terminal and use localhost:3000 in your 
 # Links
 Heroku link https://gentle-coast-30618.herokuapp.com/
 
+Contribution
+Steven Cruz
